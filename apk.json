@@ -1,0 +1,15 @@
+{
+   	"apps": [{
+			"title": "Lampa",
+			"description": "Каталог фільмів та серіалів з пошуком через торент",
+			"url": "https://github.com/velozoom/apkinstaller/blob/main/LampaTV.apk?raw=true",
+			"category": "Кіно"
+		},
+		{
+			"title": "TorrServe",
+			"description": "Сервіс для онлайн перегляду торент-файлів. Необхідний для роботи Lampa, NUM, HD Videobox та інших.",
+			"url": "https://github.com/velozoom/apkinstaller/blob/main/TorrServe.apk?raw=true",
+			"category": "Кіно"
+		},
+	]
+}
